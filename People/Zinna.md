@@ -1,0 +1,1 @@
+Daughter of [[Daronna Marqi]]. Tried to observe me in my sleep but couldn't get through the tiny hut. Determined that she had been replaced by a hag nearly at birth. Defeated her coven but she escaped back home. Confronted her, unmasked her, and killed her. Her mother wasn't exactly happy about it.

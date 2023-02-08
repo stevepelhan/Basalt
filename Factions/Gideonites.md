@@ -1,1 +1,0 @@
-Culture of humans living on [[Grunkit]]. 

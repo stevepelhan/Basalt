@@ -1,1 +1,0 @@
-Precursor race of Kenku. 

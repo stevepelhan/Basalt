@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "45dbd49bec10cbcc",
+    "id": "c4b32cd20ebac56d",
     "type": "split",
     "children": [
       {
-        "id": "be5949130db86a61",
+        "id": "e58866dd6ae9a1b2",
         "type": "tabs",
         "children": [
           {
-            "id": "f012ac7a776a0377",
+            "id": "03f55028ee5dbc7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Game Notes/Del Harun Vision.md",
+                "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b56f4ce8adb4ce9f",
+    "id": "d909c9c8e27dc244",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c162ba747586cb0d",
+        "id": "4c5b487492fa80bf",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +39,7 @@
         }
       },
       {
-        "id": "59708a66b21e0a73",
+        "id": "3db48e3393946e15",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +54,7 @@
         }
       },
       {
-        "id": "3649b9af8f72c657",
+        "id": "381d24336d4d734a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +65,7 @@
         }
       },
       {
-        "id": "4c788e8d0de1d52b",
+        "id": "f3968faae822720f",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -77,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "0d33120a82004305",
+    "id": "a22ef4683177860d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ca6c26a90adc7833",
+        "id": "20f4fab6d4a486f9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "In Game Notes/Del Harun Vision.md",
+            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,41 +97,33 @@
         }
       },
       {
-        "id": "e555b5b73a19ae1c",
+        "id": "8c6e97058f3431e9",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "In Game Notes/Del Harun Vision.md",
+            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b1378978557919a9",
+        "id": "62cac469bc3207a1",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "In Game Notes/Del Harun Vision.md"
+            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "f012ac7a776a0377",
+  "active": "03f55028ee5dbc7f",
   "lastOpenFiles": [
-    "Session/20221106.md",
-    "People/The B-Team/The B-Team.md",
-    "Religion/Crissis/Crissis.md",
-    "People/Second Party/Cahirub.md",
-    "Blankshire.md",
-    "Items/Magic Items.md",
-    "People/Cahirub.md",
-    "Places/Cannara/The Moon Lands/Dane Lyvial.md",
-    "People/People.md",
-    "Session/20221113.md"
+    "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blackreed.md",
+    "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire.md"
   ]
 }

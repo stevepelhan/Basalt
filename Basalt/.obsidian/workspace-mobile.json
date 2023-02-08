@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "45dbd49bec10cbcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "be5949130db86a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f012ac7a776a0377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Game Notes/Del Harun Vision.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b56f4ce8adb4ce9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c162ba747586cb0d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "59708a66b21e0a73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3649b9af8f72c657",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4c788e8d0de1d52b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0d33120a82004305",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca6c26a90adc7833",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "In Game Notes/Del Harun Vision.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e555b5b73a19ae1c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "In Game Notes/Del Harun Vision.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b1378978557919a9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "In Game Notes/Del Harun Vision.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f012ac7a776a0377",
+  "lastOpenFiles": [
+    "Session/20221106.md",
+    "People/The B-Team/The B-Team.md",
+    "Religion/Crissis/Crissis.md",
+    "People/Second Party/Cahirub.md",
+    "Blankshire.md",
+    "Items/Magic Items.md",
+    "People/Cahirub.md",
+    "Places/Cannara/The Moon Lands/Dane Lyvial.md",
+    "People/People.md",
+    "Session/20221113.md"
+  ]
+}

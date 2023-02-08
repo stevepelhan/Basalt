@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

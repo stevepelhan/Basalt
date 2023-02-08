@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "16d16630c938cf33",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b490befb55d353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf8ae6cfdc9af09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc4423ae890ef480",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f1c85d1d7f55dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c537a5fe7ea046d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe8f66b6baed8cd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1418e8475f2f8504",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "38220be3da56e146",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af89c9b5b1bbbf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bcd5d875b70ce16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "aa5b4b989991c961",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19252e19f6ead65c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7e07ae8d126efb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2050394db9f8c1c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3cf8ae6cfdc9af09",
+  "lastOpenFiles": [
+    "Session/20230205 - Cahirub.md",
+    "Places/Cannara/Kingdom of Levictus/The Riverlands/Murkwater.md",
+    "Thessa.md",
+    "Headmaster Wallaces.md",
+    "Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
+    "People/The B-Team/The B-Team.md",
+    "People/Grunkit/Turdok.md",
+    "In Game Notes/Book of Rhymes.md",
+    "People/Sword of Crissis/Sword of Crissis.md",
+    "Session/20230129 - Laidren.md"
+  ]
+}

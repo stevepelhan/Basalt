@@ -6,16 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/Headmaster%20Wallaces/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Thessa/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Del%20Harun/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
@@ -106,16 +96,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Daronna%20Marqi/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/Latislav/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stevepelhan.gitlab.io/People/Manek/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
@@ -126,57 +106,137 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Parsis%20Firehammer/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stevepelhan.gitlab.io/People/People/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Rose/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Deep%20Mountain/Parsis%20Firehammer/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Sharad/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Deep%20Mountain/Talon%20Oldscribe/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Talon%20Oldscribe/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/Sharad/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Zinna/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Copper/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Blankshire/Copper/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Headmaster%20Grutten/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Blankshire/Headmaster%20Grutten/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Mikil/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Blankshire/Mikil/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Rose/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Blankshire/Tanis/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Tanis/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/Blankshire/Vigir/</loc>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Vigir/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Braven/Latislav/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Murkwater/Headmaster%20Wallaces/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Murkwater/Thessa/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Balwil%20the%20Broken%20Hearted/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Cerradine%20Croux/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Davich/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Henlin/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Sarlen/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Scratches/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Thydain%20Bloodsausage/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Tilly/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Ulenas/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Userain/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Vulwyn/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/South%20Vaxus/Zivbry/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/The%20Moon%20Lands/Daronna%20Marqi/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/The%20Moon%20Lands/Zinna/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -227,66 +287,6 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/House%20Laidren/Rajani/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Balwil%20the%20Broken%20Hearted/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Cerradine%20Croux/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Davich/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Henlin/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Sarlen/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Scratches/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Thydain%20Bloodsausage/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Tilly/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Ulenas/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Userain/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Vulwyn/</loc>
-         <lastmod>2023-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/South%20Vaxus/Zivbry/</loc>
          <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>

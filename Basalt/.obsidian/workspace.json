@@ -11,8 +11,13 @@
             "id": "3cf8ae6cfdc9af09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -149,15 +158,15 @@
   },
   "active": "3cf8ae6cfdc9af09",
   "lastOpenFiles": [
+    "People/Cannara/Kingdom of Levictus/The Riverlands/Braven/Latislav.md",
+    "People/People.md",
     "Session/20230205 - Cahirub.md",
     "Places/Cannara/Kingdom of Levictus/The Riverlands/Murkwater.md",
-    "Thessa.md",
-    "Headmaster Wallaces.md",
+    "People/Cannara/Kingdom of Levictus/The Riverlands/Murkwater/Thessa.md",
+    "People/Cannara/Kingdom of Levictus/The Riverlands/Murkwater/Headmaster Wallaces.md",
     "Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
     "People/The B-Team/The B-Team.md",
     "People/Grunkit/Turdok.md",
-    "In Game Notes/Book of Rhymes.md",
-    "People/Sword of Crissis/Sword of Crissis.md",
-    "Session/20230129 - Laidren.md"
+    "In Game Notes/Book of Rhymes.md"
   ]
 }

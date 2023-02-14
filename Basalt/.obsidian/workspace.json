@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cf8ae6cfdc9af09",
+            "id": "5de3acf9a817cb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Session/20230209 - Laidren.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c76cdc6e308aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session/20230209 - Laidren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Session/20230209 - Laidren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Session/20230209 - Laidren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Session/20230209 - Laidren.md"
               }
             }
           },
@@ -156,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cf8ae6cfdc9af09",
+  "active": "5de3acf9a817cb05",
   "lastOpenFiles": [
-    "People/Cannara/Kingdom of Levictus/The Riverlands/Braven/Latislav.md",
+    "Items/Magic Items.md",
+    "Session/20230209 - Laidren.md",
+    "index.md",
+    "Items/Acab.md",
     "People/People.md",
-    "Session/20230205 - Cahirub.md",
-    "Places/Cannara/Kingdom of Levictus/The Riverlands/Murkwater.md",
-    "People/Cannara/Kingdom of Levictus/The Riverlands/Murkwater/Thessa.md",
-    "People/Cannara/Kingdom of Levictus/The Riverlands/Murkwater/Headmaster Wallaces.md",
-    "Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
-    "People/The B-Team/The B-Team.md",
-    "People/Grunkit/Turdok.md",
-    "In Game Notes/Book of Rhymes.md"
+    "People/Sword of Crissis/Sword of Crissis.md",
+    "People/Sword of Crissis/Relrash.md",
+    "People/Sword of Crissis/Laidren.md",
+    "People/Sword of Crissis/Fonkin.md",
+    "People/Dragonborn Clans/Mier.md"
   ]
 }

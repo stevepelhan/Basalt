@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gid.md",
+                "file": "Brown Robes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gid",
+                "query": "three tower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gid.md",
+                "file": "Brown Robes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gid.md",
+                "file": "Brown Robes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gid.md"
+                "file": "Brown Robes.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "8b07817b54b6f8e1",
   "lastOpenFiles": [
-    "Session/20230129 - Laidren.md",
-    "Cran, The Mushroom Man.md",
-    "Places/Cannara/Kingdom of Levictus/The Riverlands/Murkwater.md",
-    "former hexblade.md",
-    "Places/Cannara/Kingdom of Levictus/The Riverlands/Blackreed.md",
-    "Skulgar Keep.md",
-    "Places/Cannara/Kingdom of Levictus/Kingdom of Levictus.md",
-    "People/The B-Team/Cahirub.md",
-    "Cahirub's Mother.md",
-    "Cahirub's Father.md"
+    "Places/Cannara/Deep Mountain/Three Tower.md",
+    "Brown Robes.md",
+    "Black Robes.md",
+    "Red Robes.md",
+    "White Robes.md",
+    "Places/Cannara/Cannara.md",
+    "Craven Stormstooth.md",
+    "Places/Cannara/Deep Mountain/Hillhold.md",
+    "Morgen Longblade.md",
+    "Cahirub's Grandmother.md"
   ]
 }

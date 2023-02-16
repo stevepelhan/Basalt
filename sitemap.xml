@@ -6,107 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/Black%20Robes/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Bone%20Book/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Brown%20Robes/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Cahirub%27s%20Father/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Cahirub%27s%20Grandmother/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Cahirub%27s%20Mentor/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Cahirub%27s%20Mother/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Cran%2C%20The%20Mushroom%20Man/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Craven%20Stormstooth/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Gid/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Karver%20Moonfall/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Malice/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Morgen%20Longblade/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Plague%20Bringer/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Red%20Robes/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/Skulgar%20Keep/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stevepelhan.gitlab.io/TODO/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/The%20Gardener/</loc>
+         <loc>https://stevepelhan.gitlab.io/Factions/Black%20Robes/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/The%20Lord%20of%20Ash/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/White%20Robes/</loc>
-         <lastmod>2023-02-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/former%20hexblade/</loc>
+         <loc>https://stevepelhan.gitlab.io/Factions/Brown%20Robes/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -137,6 +47,16 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Ogre%20Alliance/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Factions/Red%20Robes/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Factions/White%20Robes/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -191,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stevepelhan.gitlab.io/Items/Bone%20Book/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stevepelhan.gitlab.io/Items/Bones%20of%20St%20Bernice%20the%20Dragonslayer/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
@@ -202,6 +127,16 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Items/Magic%20Items/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Karver%20Moonfall/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Malice/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -221,6 +156,31 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stevepelhan.gitlab.io/People/Plague%20Bringer/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/The%20Gardener/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/The%20Lord%20of%20Ash/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Deep%20Mountain/Craven%20Stormstooth/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Deep%20Mountain/Morgen%20Longblade/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stevepelhan.gitlab.io/People/Cannara/Deep%20Mountain/Parsis%20Firehammer/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
@@ -232,6 +192,21 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/Sharad/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Cahirub%27s%20Mentor/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/former%20hexblade/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Blankshire/Cahirub%27s%20Father/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -267,6 +242,11 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Braven/Latislav/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/Kingdom%20of%20Levictus/The%20Riverlands/Murkwater/Cran%2C%20The%20Mushroom%20Man/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -341,6 +321,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/The%20Moon%20Lands/Cahirub%27s%20Grandmother/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Cannara/The%20Moon%20Lands/Cahirub%27s%20Mother/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stevepelhan.gitlab.io/People/Cannara/The%20Moon%20Lands/Daronna%20Marqi/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
@@ -362,6 +352,11 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Grunkit/Chieftan%20Heskin/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Grunkit/Gid/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -532,6 +527,11 @@
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Cannara/Deep%20Mountain/Old%20Town/</loc>
+         <lastmod>2023-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Places/Cannara/Deep%20Mountain/Skulgar%20Keep/</loc>
          <lastmod>2023-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brown Robes.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brown Robes.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brown Robes.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brown Robes.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "8b07817b54b6f8e1",
   "lastOpenFiles": [
+    "Factions/Brown Robes.md",
     "Places/Cannara/Deep Mountain/Three Tower.md",
-    "Brown Robes.md",
-    "Black Robes.md",
-    "Red Robes.md",
-    "White Robes.md",
+    "Factions/Black Robes.md",
+    "Factions/Red Robes.md",
+    "Factions/White Robes.md",
     "Places/Cannara/Cannara.md",
-    "Craven Stormstooth.md",
+    "People/Cannara/Deep Mountain/Craven Stormstooth.md",
     "Places/Cannara/Deep Mountain/Hillhold.md",
-    "Morgen Longblade.md",
-    "Cahirub's Grandmother.md"
+    "People/Cannara/Deep Mountain/Morgen Longblade.md",
+    "People/Cannara/The Moon Lands/Cahirub's Grandmother.md"
   ]
 }

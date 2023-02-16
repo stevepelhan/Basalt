@@ -10,3 +10,4 @@ So it was that the voices told me to come to the swamp so that I may hear her cl
 She will bring about the end of the age of elf and human, leaving only the wicked holy mother. Here shall I do her bidding, until the Year of Skulls begins.
 
 ## Notes
+Discovered by [[The B-Team]]

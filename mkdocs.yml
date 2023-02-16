@@ -10,3 +10,8 @@ theme:
 plugins:
   - search
   - roamlinks
+
+markdown_extensions:
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true

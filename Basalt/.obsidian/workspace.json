@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "23b490befb55d353",
+        "id": "91b7dba2a19a442c",
         "type": "tabs",
         "children": [
           {
-            "id": "5de3acf9a817cb05",
+            "id": "8b07817b54b6f8e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session/20230209 - Laidren.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c570e4c8e94ab5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kagamekhar.md",
+                "file": "Gid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "gid",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kagamekhar.md",
+                "file": "Gid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kagamekhar.md",
+                "file": "Gid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kagamekhar.md"
+                "file": "Gid.md"
               }
             }
           },
@@ -170,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c570e4c8e94ab5b",
+  "active": "8b07817b54b6f8e1",
   "lastOpenFiles": [
-    "Session/20230215 - Laidren.md",
-    "Kagamekhar.md",
-    "Session/20230209 - Laidren.md",
-    "Items/Magic Items.md",
-    "index.md",
-    "Items/Acab.md",
-    "People/People.md",
-    "People/Sword of Crissis/Sword of Crissis.md",
-    "People/Sword of Crissis/Relrash.md",
-    "People/Sword of Crissis/Laidren.md"
+    "Session/20230129 - Laidren.md",
+    "Cran, The Mushroom Man.md",
+    "Places/Cannara/Kingdom of Levictus/The Riverlands/Murkwater.md",
+    "former hexblade.md",
+    "Places/Cannara/Kingdom of Levictus/The Riverlands/Blackreed.md",
+    "Skulgar Keep.md",
+    "Places/Cannara/Kingdom of Levictus/Kingdom of Levictus.md",
+    "People/The B-Team/Cahirub.md",
+    "Cahirub's Mother.md",
+    "Cahirub's Father.md"
   ]
 }

@@ -5,8 +5,8 @@
 	- [ ] What is she even up to?
 - [ ] [[Rose]]?
 - [ ] Defeat [[Wasog]] and the [[Ogre Alliance]]
-- [ ] Help [[Relrash]] find the last dragon egg
-- [ ] Recover the [[Bones of St Bernice the Dragonslayer]]
+- [x] Help [[Relrash]] find the last dragon egg
+- [x] Recover the [[Bones of St Bernice the Dragonslayer]]
 - [ ] Investigate [[Three Tower]]
 	- [ ] Seems to tie to [[Rose]]
 	- [ ] Lots of imagery about the three towers in visions and books

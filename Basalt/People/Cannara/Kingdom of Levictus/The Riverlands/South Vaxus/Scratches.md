@@ -8,4 +8,4 @@ Was responsbile for [[Sarlen]]'s murder. The actual calprit but worked with [[Ba
 Deceased.
 
 ## Notes
-Packed quite a punch. Got a wee bit upset when he couldn't quite kill [[Phann]].
+Packed quite a punch. Got a wee bit upset when he couldn't quite kill [[Phan]].

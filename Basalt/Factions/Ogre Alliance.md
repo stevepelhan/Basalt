@@ -1,4 +1,5 @@
 [[Morgan Middenheap]]
 [[Wasog]]
-[[Turdok]]
-[[Witch of Brachmoore]]
+[[Turdok]] 
+[[Red Mistress]] (Witch of Brachmoore)
+[[Grazzen Gortu]]

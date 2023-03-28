@@ -12,6 +12,6 @@ There are many today who are bitter over the Dwarves war profiteering, which has
 |      |             |
 
 ## Notable People
-| Person | Description |
-| ------ | ----------- |
-|        |             |
+| Person          | Description |
+| --------------- | ----------- |
+| [[Lord Hafrok]] | Leader            |

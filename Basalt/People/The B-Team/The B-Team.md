@@ -14,7 +14,7 @@
 | --------------- | ---------------------------- | ----------- |
 | [[Cahirub]]     | Hexblade Warlock             |             |
 | [[Wasat]]       | Circle of Stars Druid/Ranger |             |
-| [[Phann]]       | Wildmagic Barbarian          |             |
+| [[Phan]]       | Wildmagic Barbarian          |             |
 | [[Charlotte]]   | Shadow Sorcerer              |             |
 | [[Burt Cokain]] | College of Eloquence Bard    |             |
 

@@ -121,8 +121,21 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "03f55028ee5dbc7f",
   "lastOpenFiles": [
+    "Basalt/Session/20230415 - Laidren.md",
+    "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
     "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blackreed.md",
     "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire.md"
   ]

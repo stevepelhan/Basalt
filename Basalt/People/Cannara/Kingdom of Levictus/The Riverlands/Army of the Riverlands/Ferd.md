@@ -1,5 +1,5 @@
 ## Description
-Urchin boy in the camp followers of the [[Army of the Riverlands]]. Recruited by [[Charlotte]] to run messages.
+Urchin boy in the camp followers of the [[Army of the Riverlands]]. Recruited by [[Revan]] to run messages.
 
 ## History
 

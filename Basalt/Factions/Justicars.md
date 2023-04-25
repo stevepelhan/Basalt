@@ -6,4 +6,7 @@ Travelling magistrates in [[The Riverlands]] that rove from town to town mediati
 | -------------------- | ----------- |
 | [[Cahirub]]          |             |
 | [[Cahirub's Mentor]] |             |
-| Third Person                     |             |
+| Third Person         |             |
+ 
+## Notes
+* 

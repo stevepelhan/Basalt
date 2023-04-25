@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/White Robes.md",
+                "file": "Places/Grunkit/Brachmoore Fortress.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0afe6f374ffc5ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session/20230415 - Laidren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/White Robes.md",
+                "file": "Session/20230415 - Laidren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/White Robes.md",
+                "file": "Session/20230415 - Laidren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/White Robes.md"
+                "file": "Session/20230415 - Laidren.md"
               }
             }
           },
@@ -156,8 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6463a7c82732b497",
+  "active": "0afe6f374ffc5ce9",
   "lastOpenFiles": [
+    "Session/20230402 - Laidren.md",
+    "Session/20230415 - Laidren.md",
+    "Places/Grunkit/Brachmoore Fortress.md",
+    "Factions/White Robes.md",
     "Factions/Army of the Riverlands.md",
     "People/Cannara/The Moon Lands/Dane Caelen/Bobble Fat Van Nipplewise.md",
     "People/Cannara/The Moon Lands/Dane Caelen/Zygarian.md",
@@ -182,10 +200,6 @@
     "Templates/My Character.md",
     "Templates/Item.md",
     "Templates/Faction.md",
-    "Items/Silver Shovel.md",
-    "Places/Cannara/The Moon Lands/Door of Relics.md",
-    "People/Cannara/The Moon Lands/Dane Caelen/Beala.md",
-    "Session/20230415 - Laidren.md",
     "Places/The Southlands"
   ]
 }

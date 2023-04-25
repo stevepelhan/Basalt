@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session/20230415 - Laidren.md",
+                "file": "Items/Magic Items.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session/20230415 - Laidren.md",
+                "file": "Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session/20230415 - Laidren.md",
+                "file": "Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session/20230415 - Laidren.md"
+                "file": "Items/Magic Items.md"
               }
             }
           },
@@ -172,27 +172,17 @@
   },
   "active": "0afe6f374ffc5ce9",
   "lastOpenFiles": [
-    "Session/20230402 - Laidren.md",
-    "Session/20230415 - Laidren.md",
-    "Places/Grunkit/Brachmoore Fortress.md",
-    "Factions/White Robes.md",
-    "Factions/Army of the Riverlands.md",
-    "People/Cannara/The Moon Lands/Dane Caelen/Bobble Fat Van Nipplewise.md",
-    "People/Cannara/The Moon Lands/Dane Caelen/Zygarian.md",
-    "People/Cannara/The Moon Lands/Dane Caelen/Cahirub's Mother.md",
-    "Religion/Gardener.md",
-    "People/Cannara/The Moon Lands/Dane Caelen",
-    "Religion/Lord of Ash.md",
-    "People/Misc/The Lord of Ash.md",
-    "People/Misc/Plague Bringer.md",
-    "People/Misc/The Gardener.md",
-    "People/Misc/Malice.md",
-    "People/Cannara/The Moon Lands/Dane Caelen/Mebra Moonshadow.md",
-    "People/Misc",
-    "Session/20230422 - Cahirub.md",
-    "Factions/Bobble Fat Van Nipplewise's Faction.md",
+    "In Game Notes/The Stars Before Time.md",
+    "In Game Notes/The Journal of Karver Moonfall.md",
+    "In Game Notes/The First Ones.md",
+    "In Game Notes/The Dig.md",
+    "In Game Notes/Songs by Burt.md",
+    "In Game Notes/Mysterious Note.md",
+    "In Game Notes/Early Human History on Cannara.md",
+    "In Game Notes/Del Harun Vision.md",
+    "In Game Notes/Decaying Journal.md",
+    "In Game Notes/Book of Rhymes.md",
     "Templates/Town.md",
-    "Templates/Session.md",
     "Templates/Place.md",
     "Templates/Person.md",
     "Templates/PC.md",
@@ -200,6 +190,17 @@
     "Templates/My Character.md",
     "Templates/Item.md",
     "Templates/Faction.md",
+    "People/Grunkit/Bard Twins.md",
+    "Session/20230226 - Cahirub.md",
+    "People/Cannara/Kingdom of Levictus/North Levictus/Ravensport",
+    "People/Cannara/Kingdom of Levictus/North Levictus/Ravensport/Eira.md",
+    "Session/20230219 - Cahirub.md",
+    "Session/20230129 - Laidren.md",
+    "People/Cannara/Kingdom of Levictus/North Levictus/Skulgar Keep/Lord Meruitus Coralian.md",
+    "Session/20230415 - Laidren.md",
+    "Session/20230402 - Laidren.md",
+    "People/Cannara/The Moon Lands/Dane Caelen",
+    "People/Misc",
     "Places/The Southlands"
   ]
 }

@@ -1,5 +1,5 @@
 ## Description
-Twin bards found captive in [[Brachmoore Fortress]]
+Twin human bards found captive in [[Brachmoore Fortress]]. Verilias and Doddy.
 
 ## History
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Grunkit/Brachmoore Fortress.md",
+                "file": "Session/20230422 - Cahirub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "0afe6f374ffc5ce9",
+            "id": "93fa04400fa18e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Magic Items.md",
+                "file": "Session/20230430 - Cahirub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "808a3621842dd5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session/20230507 - Cahirub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486fdfcb389f1f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session/20230507 - Cahirub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,6 +105,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3cf99932ddb12bb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -100,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Magic Items.md",
+                "file": "Session/20230507 - Cahirub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Magic Items.md",
+                "file": "Session/20230507 - Cahirub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Magic Items.md"
+                "file": "Session/20230507 - Cahirub.md"
               }
             }
           },
@@ -170,35 +204,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0afe6f374ffc5ce9",
+  "active": "486fdfcb389f1f1b",
   "lastOpenFiles": [
+    "In Game Notes/Songs by Burt.md",
+    "The Bottomless Stairs of Dane Below.md",
+    "Session/20230507 - Cahirub.md",
+    "Session/20230430 - Cahirub.md",
+    "Session/20230422 - Cahirub.md",
+    "Dane Below.md",
+    "People/Cannara/The Moon Lands/Dane Caelen/Mebra Moonshadow.md",
+    "Parf Edhell.md",
+    "Kina's Children.md",
+    "Pottlescrap Bimpipper.md",
+    "Mipplewise.md",
+    "Mipplewise's Faction.md",
+    "People/Cannara/The Moon Lands/Dane Caelen/Bobblefat.md",
+    "Factions/Bobblefat's Faction.md",
+    "People/Cannara/The Moon Lands/Dane Caelen/Hamala.md",
+    "People/The B-Team/Cahirub.md",
+    "People/Cannara/The Moon Lands/Dane Caelen/Ridwyn.md",
+    "Items/Silver Shovel.md",
+    "Session/20230219 - Cahirub.md",
+    "People/People.md",
+    "People/The B-Team/The B-Team.md",
+    "Places/Grunkit/Brachmoore Fortress.md",
+    "Items/Magic Items.md",
     "In Game Notes/The Stars Before Time.md",
     "In Game Notes/The Journal of Karver Moonfall.md",
     "In Game Notes/The First Ones.md",
-    "In Game Notes/The Dig.md",
-    "In Game Notes/Songs by Burt.md",
-    "In Game Notes/Mysterious Note.md",
-    "In Game Notes/Early Human History on Cannara.md",
-    "In Game Notes/Del Harun Vision.md",
-    "In Game Notes/Decaying Journal.md",
-    "In Game Notes/Book of Rhymes.md",
-    "Templates/Town.md",
-    "Templates/Place.md",
-    "Templates/Person.md",
-    "Templates/PC.md",
-    "Templates/Notes.md",
-    "Templates/My Character.md",
-    "Templates/Item.md",
-    "Templates/Faction.md",
-    "People/Grunkit/Bard Twins.md",
-    "Session/20230226 - Cahirub.md",
     "People/Cannara/Kingdom of Levictus/North Levictus/Ravensport",
-    "People/Cannara/Kingdom of Levictus/North Levictus/Ravensport/Eira.md",
-    "Session/20230219 - Cahirub.md",
-    "Session/20230129 - Laidren.md",
-    "People/Cannara/Kingdom of Levictus/North Levictus/Skulgar Keep/Lord Meruitus Coralian.md",
-    "Session/20230415 - Laidren.md",
-    "Session/20230402 - Laidren.md",
     "People/Cannara/The Moon Lands/Dane Caelen",
     "People/Misc",
     "Places/The Southlands"

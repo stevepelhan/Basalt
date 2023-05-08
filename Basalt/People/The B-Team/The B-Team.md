@@ -1,13 +1,16 @@
 ## Quests
-- [ ] Find the Glade of Thorns
-	- [ ] Investigate [[Latislav]]'s house in [[Braven]]
-- [ ] Learn how [[Rose]] is involved
-- [x] Travel to [[Murkwater]] to help [[Revan]] convince the government to prepare for the undead horde
+- [ ] Find the [[Silver Shovel]]
+- [ ] 
+
 
 ## Notable Events
 - [x] Determine who killed [[Sarlen]] and why
 - [x] Determine [[Mikil]]'s culpability and fate
 	- [x] Investigate the dungeon in [[Greymurk Swamp]]
+- [x] Find the Glade of Thorns
+	- [x] Investigate [[Latislav]]'s house in [[Braven]]
+- [x] Learn how [[Rose]] is involved
+- [x] Travel to [[Murkwater]] to help [[Revan]] convince the government to prepare for the undead horde
 
 ## Members
 | Name            | Class                        | Description |

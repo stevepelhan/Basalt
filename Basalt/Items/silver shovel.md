@@ -1,4 +1,5 @@
 ## Description
-Silver Shovel necessary to plant the [[Finnest]] in the [[Valley of Night]]. Believed to be under the palace in [[Dane Caelen]].
+Item necessary to plant the [[Finnest]] in the [[Valley of Night]] and defeat [[Kina]].
 
 ## Notes
+* Currently believed to be housed behind the [[Door of Relics]] in [[Dane Caelen]]

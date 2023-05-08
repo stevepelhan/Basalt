@@ -12,7 +12,7 @@ Older half-elf with slightly greying blond hair. Very amicable and protective of
 ![[Cahirub.png|300]]
 
 ## History
-Grew up in [[Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire]] where [[Cahirub's Father|his father]] was a chef for a local lord. [[Cahirub's Mother|His Mother]] would take him traveling to [[Dane Caelen]] to visit [[Cahirub's Grandmother|his grandmother]] and those trips instilled a joy of travel, meeting friends on the road, and cooking.
+Grew up in [[Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire]] where [[Cahirub's Father|his father]] was a chef for a local lord. [[Hamala|His Mother]] would take him traveling to [[Dane Caelen]] to visit [[Ridwyn|his grandmother]] and those trips instilled a joy of travel, meeting friends on the road, and cooking.
 
 Those trips also led to a natural wanderlust. The joy of finding new people and new dishes drove him for many years and his natural affiability led him to mediate several disputes amongst the people that shared his table. Turns out that he was good at it. So good in fact that a [[Justicars|Justicar]] travelling incognito observed him and offered him an invitation into the order.
 

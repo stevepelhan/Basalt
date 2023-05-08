@@ -1,5 +1,5 @@
 ## Description
-Newly elected leader of the [[Dane Caelen Refugees]].
+Newly elected leader of the the wild elves in [[Dane Below]].
 
 ## History
 

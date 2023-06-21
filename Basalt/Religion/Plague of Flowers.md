@@ -1,1 +1,1 @@
-The Plague seeks to destroy all life and afterlife on [[Basalt]] 
+The Plague seeks to destroy all life and afterlife on [[Basalt]]. An instrument of [[The World Ender]] to achieve his aims. 

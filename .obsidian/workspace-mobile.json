@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
+                "file": "Basalt/In Game Notes/Songs by Burt.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -93,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
+            "file": "Basalt/In Game Notes/Songs by Burt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
+            "file": "Basalt/In Game Notes/Songs by Burt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md"
+            "file": "Basalt/In Game Notes/Songs by Burt.md"
           }
         }
       }
@@ -140,10 +141,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f55028ee5dbc7f",
+  "active": "4c5b487492fa80bf",
   "lastOpenFiles": [
-    "Basalt/Session/20230415 - Laidren.md",
+    "Basalt/Session/20230507 - Cahirub.md",
+    "Big Foot Phan.md",
+    "Basalt/In Game Notes/Songs by Burt.md",
     "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
+    "Basalt/Session/20230415 - Laidren.md",
     "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blackreed.md",
     "Basalt/Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire.md"
   ]

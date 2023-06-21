@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e5885f6c270bf1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basalt/Religion/Lord of Ash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "30bd8e13908a3daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basalt/Session/20230415 - Laidren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22b415eef65565d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basalt/People/Grunkit/Bard Twins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bf647ef61c0015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basalt/Session/20230415 - Laidren.md",
+                "file": "Basalt/Session/20230618 - Cahirub.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fb580eb26df5ce48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -121,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basalt/Religion/Lord of Ash.md",
+                "file": "Basalt/Session/20230618 - Cahirub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basalt/Religion/Lord of Ash.md",
+                "file": "Basalt/Session/20230618 - Cahirub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basalt/Religion/Lord of Ash.md"
+                "file": "Basalt/Session/20230618 - Cahirub.md"
               }
             }
           }
@@ -183,22 +155,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e5885f6c270bf1a",
+  "active": "30bd8e13908a3daa",
   "lastOpenFiles": [
+    "Basalt/Session/20230209 - Laidren.md",
     "Basalt/Session/20230326 - Laidren.md",
-    "Basalt/Session/20230415 - Laidren.md",
-    "Basalt/Session/20230422 - Cahirub.md",
-    "Basalt/Session/20230319 - Cahirub.md",
+    "Basalt/Session/20230618 - Cahirub.md",
+    "Basalt/Session/20230215 - Laidren.md",
     "Basalt/Session/20230402 - Laidren.md",
+    "Basalt/Session/20230415 - Laidren.md",
+    "Basalt/Session/20230527 - Laidren.md",
+    "Basalt/Session/20230604 - Laidren.md",
+    "Basalt/Session/20230611 - Laidren.md",
+    "Basalt/Items/Magic Items - Sword of Crissis.md",
+    "Basalt/Items/Magic Items - The B-Team.md",
+    "Basalt/Items/Golden Dragon Egg.md",
+    "Basalt/People/Cannara/The Moon Lands/Dane Caelen/Beala.md",
+    "Basalt/People/Sword of Crissis/Sword of Crissis.md",
+    "Basalt/Places/Cannara/Kingdom of Levictus/North Levictus/forge of twilight.md",
+    "Basalt/Religion/Plague of Flowers.md",
+    "Basalt/Session/20230129 - Laidren.md",
+    "Basalt/Session/20221125 - Laidren.md",
+    "Basalt/Session/20221106.md",
+    "Basalt/Session/20221113.md",
+    "Basalt/Session/20221120.md",
     "Basalt/People/Grunkit/Bard Twins.md",
     "Basalt/Places/Grunkit/Brachmoore Fortress.md",
-    "Basalt/People/Grunkit/Wasog's Harem.md",
-    "Basalt/People/Grunkit/Wasog's Queen.md",
-    "Untitled.md",
-    "Basalt/People/Sword of Crissis/Sword of Crissis.md",
+    "Basalt/Session/20230517 - Cahirub.md",
+    "Big Foot Phan.md",
+    "Basalt/Session/20230520 - Cahirub.md",
     "Untitled",
-    "Untitled 1.md",
-    "Basalt/Places/The Southlands/The Southlands.md",
     "Basalt/Places/The Southlands",
     "public/Places/Cannara/Deep Mountain/Iron Loch/index.html",
     "public/Places/Cannara/Deep Mountain/Iron Loch",
@@ -208,18 +193,6 @@
     "public/People/Fluticus Flam",
     "public/Places/Cannara/The Moon Lands/Ilendorei/index.html",
     "public/Places/Cannara/The Moon Lands/Ilendorei",
-    "public/Images/Phan.jpg",
-    "Basalt/Factions/Ogre Alliance.md",
-    "Basalt/Factions/Ogre Sisters.md",
-    "Basalt/People/Cannara/Deep Mountain/Naaejor Crimsonspell.md",
-    "Basalt/People/Cannara/Deep Mountain/Mael Devfy.md",
-    "Basalt/Places/Cannara/The Moon Lands/Gaping Hole.md",
-    "Basalt/Templates/Place.md",
-    "Basalt/Factions/Ilendorei Refugees.md",
-    "Basalt/Places/Cannara/The Moon Lands/Ilendorei.md",
-    "Basalt/Templates/Person.md",
-    "Basalt/Templates/Town.md",
-    "Basalt/In Game Notes/Songs by Burt.md",
-    "Basalt/Session/20230305 - Cahirub.md"
+    "public/Images/Phan.jpg"
   ]
 }

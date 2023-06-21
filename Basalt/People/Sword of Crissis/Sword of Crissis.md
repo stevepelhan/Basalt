@@ -1,10 +1,15 @@
 ## Open Quests
 - [ ] Stop the [[Plague of Flowers]]
-	- [ ] Investiage [[Tor Towig]] and [[Brachmoore]] to try and learn more
+	- [x] Investiage [[Tor Towig]] and [[Brachmoore]] to try and learn more
+	- [ ] Travel to [[The Southlands]] and defeat the [[Lord of Ash]]
+	- [ ] and defeat [[The World Ender]]
+- [ ] Acquire weapons to help defeat [[The World Ender]]
+	- [ ] Go to the dragonborn lands and find some moonfall
+	- [ ] Return to [[Parsis Firehammer]] and the [[forge of twilight]] and create the weapons
 - [ ] Stop [[Kina]]
 	- [ ] What is she even up to?
 - [ ] [[Rose]]?
-- [ ] Defeat [[Wasog]] and the [[Ogre Alliance]]
+- [x] Defeat [[Wasog]] and the [[Ogre Alliance]]
 - [x] Help [[Relrash]] find the last dragon egg
 - [x] Recover the [[Bones of St Bernice the Dragonslayer]]
 - [ ] Investigate [[Three Tower]]

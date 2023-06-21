@@ -3,7 +3,7 @@
 |            |             |
 
 # Open Quests
-- [ ] Find the [[Glade of Thorns]]
+- [x] Find the [[Glade of Thorns]]
 
 # Events
 * Appeared in [[Places/Cannara/Kingdom of Levictus/The Riverlands/Blankshire]] in the middle of the inn next to [[Phan]]

@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91b7dba2a19a442c",
+        "id": "ea1c4a593b0feced",
         "type": "tabs",
         "children": [
           {
-            "id": "808a3621842dd5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session/20230527 - Laidren.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc9caf41645f51e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session/20230625 - Cahirub.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42417f44bd866bdc",
+            "id": "209224fe1397eae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42417f44bd866bdc",
+  "active": "209224fe1397eae2",
   "lastOpenFiles": [
+    "index.md",
+    "Session/20230527 - Laidren.md",
     "Session/20230625 - Cahirub.md",
+    "Items/Magic Items - The B-Team.md",
     "People/Cannara/The Moon Lands/Dane Caelen/Zygarian.md",
     "People/Cannara/Kingdom of Levictus/The Riverlands/Braven/Lazaz.md",
     "Places/Cannara/Kingdom of Levictus/The Riverlands/Braven.md",
@@ -204,10 +179,8 @@
     "Places/Cannara/Kingdom of Levictus/The Riverlands/The Riverlands.md",
     "Session/20230219 - Cahirub.md",
     "Session/20230618 - Cahirub.md",
-    "Items/Magic Items - The B-Team.md",
     "Session/20230520 - Cahirub.md",
     "Session/20230604 - Laidren.md",
-    "Session/20230527 - Laidren.md",
     "Session/20230611 - Laidren.md",
     "Session/20230517 - Cahirub.md",
     "Session/20230507 - Cahirub.md",
@@ -220,7 +193,6 @@
     "Session/20230430 - Cahirub.md",
     "Factions/Shadows.md",
     "Session/20230226 - Cahirub.md",
-    "People/The B-Team/Wasat.md",
     "People/Cannara/Kingdom of Levictus/North Levictus/Ravensport",
     "People/Cannara/The Moon Lands/Dane Caelen",
     "People/Misc",

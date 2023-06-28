@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf405f347cb5a64",
+        "id": "59afa294c639efb1",
         "type": "tabs",
         "children": [
           {
-            "id": "30bd8e13908a3daa",
+            "id": "0b53fd83eb6bde0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basalt/Session/20230618 - Cahirub.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basalt/Session/20230618 - Cahirub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basalt/Session/20230618 - Cahirub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basalt/Session/20230618 - Cahirub.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,11 +147,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30bd8e13908a3daa",
+  "active": "0b53fd83eb6bde0c",
   "lastOpenFiles": [
+    "Basalt/Session/20230618 - Cahirub.md",
+    "public/Session/20230215 - Laidren/index.html",
+    "public/Session/20230209 - Laidren/index.html",
+    "public/Session/20230205 - Cahirub/index.html",
+    "public/Session/20230115 - Laidren/index.html",
+    "public/Session/20230115 - Cahirub/index.html",
+    "public/Session/20230108 - Cahirub/index.html",
+    "public/Session/20230101 - Cahirub/index.html",
+    "public/Session/20221217 - Laidren/index.html",
+    "public/Session/20221211 - Cahirub/index.html",
+    "public/Session/20221125 - Laidren/index.html",
+    "public/Images/Cahirub.png",
+    "public/Images/Burt Cokain.png",
+    "public/assets/images/favicon.png",
+    "public/Images/Phan.jpg",
     "Basalt/Session/20230209 - Laidren.md",
     "Basalt/Session/20230326 - Laidren.md",
-    "Basalt/Session/20230618 - Cahirub.md",
     "Basalt/Session/20230215 - Laidren.md",
     "Basalt/Session/20230402 - Laidren.md",
     "Basalt/Session/20230415 - Laidren.md",
@@ -181,18 +187,6 @@
     "Basalt/People/Grunkit/Bard Twins.md",
     "Basalt/Places/Grunkit/Brachmoore Fortress.md",
     "Basalt/Session/20230517 - Cahirub.md",
-    "Big Foot Phan.md",
-    "Basalt/Session/20230520 - Cahirub.md",
-    "Untitled",
-    "Basalt/Places/The Southlands",
-    "public/Places/Cannara/Deep Mountain/Iron Loch/index.html",
-    "public/Places/Cannara/Deep Mountain/Iron Loch",
-    "public/Places/Cannara/The Moon Lands/Gaping Hole/index.html",
-    "public/Places/Cannara/The Moon Lands/Gaping Hole",
-    "public/People/Fluticus Flam/index.html",
-    "public/People/Fluticus Flam",
-    "public/Places/Cannara/The Moon Lands/Ilendorei/index.html",
-    "public/Places/Cannara/The Moon Lands/Ilendorei",
-    "public/Images/Phan.jpg"
+    "Big Foot Phan.md"
   ]
 }

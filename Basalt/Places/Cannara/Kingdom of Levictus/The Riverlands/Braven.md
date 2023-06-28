@@ -16,5 +16,5 @@ Changelings may be living in the town now. No other signs of habitation.
 ## Notable People
 | Person       | Description |
 | ------------ | ----------- |
-| [[Latislav]] |  Historian           |
-|              |             |
+| [[Latislav]] | Historian   |
+| [[Lazaz]]    | Changeling Leader            |
